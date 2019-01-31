@@ -1,0 +1,37 @@
+Partlist
+
+Exported from movimiento.sch at 30/05/18 11:36 A.M.
+
+EAGLE Version 8.7.1 Copyright (c) 1988-2018 Autodesk, Inc.
+
+Assembly variant: 
+
+Part     Value              Device                    Package       Library               Sheet
+
+C1       18pF               CAP0603-CAP               0603-CAP      SparkFun              1
+C2       0.1uF              CAP0603-CAP               0603-CAP      SparkFun              1
+C3       2.2nF              CAP0603-CAP               0603-CAP      SparkFun              1
+C4       0.1uF              CAP0603-CAP               0603-CAP      SparkFun              1
+C5       10nF               CAP0603-CAP               0603-CAP      SparkFun              1
+C6       18pF               CAP0603-CAP               0603-CAP      SparkFun              1
+C7       1uf                CAP0603-CAP               0603-CAP      SparkFun              1
+C8       1uF                CAP0603-CAP               0603-CAP      SparkFun              1
+C9       1uF                CAP0603-CAP               0603-CAP      SparkFun              1
+C10      1uF                CAP0603-CAP               0603-CAP      SparkFun              1
+C11      10nF               CAP0603-CAP               0603-CAP      SparkFun              1
+C12      1uF                CPOL-US085CS-1AR          085CS_1AR     resistor              1
+C13      10uF               CPOL-US085CS-1AR          085CS_1AR     resistor              1
+D3       GF1                GF1                       SMA-DO214AC   diode                 1
+D4       GF1                GF1                       SMA-DO214AC   diode                 1
+IC1      LM317MBSTT3        LM317MBSTT3               SOT223        v-reg                 1
+Q2       MC-405             MC-405                    MC-405        crystal               1
+R1       10k                RESISTOR0603-RES          0603-RES      SparkFun              1
+R2       10k                RESISTOR0603-RES          0603-RES      SparkFun              1
+R3       10k                RESISTOR0603-RES          0603-RES      SparkFun              1
+R4       240?               R-US_M0805                M0805         resistor              1
+R5       394?               R-US_M0805                M0805         resistor              1
+SJ1                         SOLDERJUMPER_2WAYPASTE2&3 SJ_3_PASTE2&3 SparkFun              1
+U$1      ATMEGA32U4-AU      ATMEGA32U4-AU             TQFP44        mega32U4              1
+U1       MPU-6050-1         MPU-6050-1                QFN-24-4MM2   Testing               1
+U2       HC_05              HC_05                     BLUETOOTH_SMD Modulo Bloutooth      1
+X1       MINI-USB-32005-201 MINI-USB-32005-201        32005-201     con-cypressindustries 1
